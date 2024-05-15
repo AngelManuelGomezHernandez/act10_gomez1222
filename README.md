@@ -25,6 +25,10 @@ samples, guidance on mobile development, and a full API reference.
 ![image](https://github.com/AngelManuelGomezHernandez/act10_gomez1222/assets/143548268/e65acf82-d0ae-4a75-8565-f5d8554d6b3b)
 ![image](https://github.com/AngelManuelGomezHernandez/act10_gomez1222/assets/143548268/829d3d5e-11e8-4197-9fd1-c59158a8e6b7)
 ![image](https://github.com/AngelManuelGomezHernandez/act10_gomez1222/assets/143548268/ff5eee7c-53a3-49fd-80ba-9300162f7b60)
+![image](https://github.com/AngelManuelGomezHernandez/act10_gomez1222/assets/143548268/e699f726-73a8-4a82-98d6-e0ff46d1dbe2)
+![image](https://github.com/AngelManuelGomezHernandez/act10_gomez1222/assets/143548268/312bfc9e-241a-473d-af76-b24e1241a2c9)
+![image](https://github.com/AngelManuelGomezHernandez/act10_gomez1222/assets/143548268/a5c8da20-691c-485c-a068-c732d4c8d858)
+
 
 ## Links de referencia
 https://youtu.be/BpN5f_747pI?si=ku6bZ52ipIrOOBhT
