@@ -20,7 +20,6 @@ samples, guidance on mobile development, and a full API reference.
 
 ## Imagenes
 ![image](https://github.com/AngelManuelGomezHernandez/act10_gomez1222/assets/143548268/79bb1951-8b17-415b-85fc-e890d8ec4b69)
-![image](https://github.com/AngelManuelGomezHernandez/act10_gomez1222/assets/143548268/16078456-fca7-4c0f-a06e-6d72a8e66c96)
 ![image](https://github.com/AngelManuelGomezHernandez/act10_gomez1222/assets/143548268/02fbd8d4-edfd-471a-a120-74a6f54b5c5e)
 ![image](https://github.com/AngelManuelGomezHernandez/act10_gomez1222/assets/143548268/e65acf82-d0ae-4a75-8565-f5d8554d6b3b)
 ![image](https://github.com/AngelManuelGomezHernandez/act10_gomez1222/assets/143548268/829d3d5e-11e8-4197-9fd1-c59158a8e6b7)
